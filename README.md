@@ -5,10 +5,10 @@ Instructors:
 * Konrad Rzentarzewski (konrad.rzentarzewski@linuxpolska.pl)
 * Will Tome (wtome@redhat.com)
 
-## Polski opis
+### Polish description
 https://linuxpolska.pl/konfigurowanie-systemow-windows-za-pomoca-ansible-na-platformie-ms-azure/
 
-## Slides
+### Slides
 https://bit.ly/ansiblewins
 
 ### Video
